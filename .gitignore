@@ -1,0 +1,9 @@
+# Ignore large dataset files
+extra_32x32.mat
+test_32x32.mat
+train_32x32.mat
+
+# Ignore datasets and model weights
+*.mat
+*.pth
+*.pt
